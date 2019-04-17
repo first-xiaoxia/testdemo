@@ -9,7 +9,7 @@ eureka:
 logging:
   config: classpath:logback-spring.xml
   level: info
-  path: i:/test/log/
+  path: i:/test/log
 security:
   basic:
     enabled: false
