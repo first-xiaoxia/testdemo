@@ -1,4 +1,4 @@
 logging:
   config: classpath:logback-spring.xml
-  level: debug
+  level: info
   path: i:/test/log
