@@ -1,2 +1,4 @@
-sex:
-  18
+logging:
+  config: classpath:logback-spring.xml
+  level: debug
+  path: i:/test/log
